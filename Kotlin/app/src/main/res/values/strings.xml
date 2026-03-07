@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- app/src/main/res/values/strings.xml -->
+<resources>
+    <string name="app_name">G — GradeCalc</string>
+    <string name="grades_tab">Grades</string>
+    <string name="config_tab">Config</string>
+    <string name="stats_tab">Stats</string>
+    <string name="import_file">Import Excel File</string>
+    <string name="export_results">Export Results</string>
+</resources>
